@@ -22,10 +22,10 @@
 ## ⚙️ Bases de données
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-####  Modélisation
+#### ⚙️ Modélisation
 ![UML](https://img.shields.io/badge/UML-%23000000.svg?style=for-the-badge&logo=plantuml&logoColor=white)
 
-## Outils
+## ⚙️ Outils
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
