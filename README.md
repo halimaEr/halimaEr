@@ -57,15 +57,15 @@ Intéressée par la conception d'applications web et les **architectures microse
 
 **Langages**
 
-<img src="./assets/skills-langages.svg" alt="Langages"/>
+<img src="./assets/skills-langages (1).svg" alt="Langages"/>
 
 **Back-end**
 
-<img src="./assets/skills-backend.svg" alt="Back-end"/>
+<img src="./assets/skills-backend (1).svg" alt="Back-end"/>
 
 **Front-end**
 
-<img src="./assets/skills-frontend.svg" alt="Front-end"/>
+<img src="./assets/skills-frontend (1).svg" alt="Front-end"/>
 
 **Bases de données**
 
@@ -77,7 +77,7 @@ Intéressée par la conception d'applications web et les **architectures microse
 
 **Outils et méthodes**
 
-<img src="./assets/skills-outils.svg" alt="Outils et méthodes"/>
+<img src="./assets/skills-outils (1).svg" alt="Outils et méthodes"/>
 
 **Modélisation**
 
