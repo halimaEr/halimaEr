@@ -6,7 +6,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=halimaEr&label=VUES&color=4F46E5&style=flat-square" alt="views"/>
 <img src="https://img.shields.io/github/followers/halimaEr?label=FOLLOWERS&style=flat-square&logo=github&color=3B82F6&labelColor=0B1220" alt="followers"/>
 <a href="https://www.linkedin.com/in/halima-er-reguigue-3b1416280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1220" alt="linkedin"/></a>
 <a href="mailto:h.erreguigue@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6366F1?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1220" alt="email"/></a>
