@@ -99,11 +99,11 @@ Intéressée par la conception d'applications web et les **architectures microse
 
 <div align="center">
 
-<img src="./assets/mic.png" alt="MIC" height="60"/>
+<img src="./assets/image.png" alt="MIC" height="60"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/rouandi.png" alt="Rouandi" height="60"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/abh.png" alt="ABH Oum Er-Rbia" height="60"/>
+<img src="./assets/ABHOER.jfif" alt="ABH Oum Er-Rbia" height="60"/>
 
 </div>
 
