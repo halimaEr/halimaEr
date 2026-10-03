@@ -42,7 +42,7 @@ Intéressée par la conception d'applications web et les **architectures microse
 
 **Front-end**
 
-<img src="./assets/skills-frontend (52).svg" alt="Front-end"/>
+<img src="./assets/skills-frontend (2).svgg" alt="Front-end"/>
 
 **Bases de données**
 
