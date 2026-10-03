@@ -34,7 +34,7 @@ Intéressée par la conception d'applications web et les **architectures microse
 
 **Langages**
 
-<img src="./assets/skills-langages.svg" alt="Langages"/>
+<img src="./assets/skills-langages (4).svg" alt="Langages"/>
 
 **Back-end**
 
