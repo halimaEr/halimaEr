@@ -37,15 +37,7 @@ Intéressée par la conception d'applications web et les **architectures microse
 - **Lycée El Aamria** – Bac Sciences Physiques *(2022)*
 
 </td>
-<td width="50%" valign="top">
 
-**🌍 Langues**
-
-- 🇲🇦 Arabe : langue maternelle
-- 🇫🇷 Français : courant
-- 🇬🇧 Anglais : intermédiaire
-
-</td>
 </tr>
 </table>
 
