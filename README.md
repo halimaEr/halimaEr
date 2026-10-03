@@ -38,11 +38,11 @@ Intéressée par la conception d'applications web et les **architectures microse
 
 **Back-end**
 
-<img src="./assets/skills-backend.svg" alt="Back-end"/>
+<img src="./assets/skills-backend (2).svg" alt="Back-end"/>
 
 **Front-end**
 
-<img src="./assets/skills-frontend.svg" alt="Front-end"/>
+<img src="./assets/skills-frontend (52).svg" alt="Front-end"/>
 
 **Bases de données**
 
