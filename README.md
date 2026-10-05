@@ -160,7 +160,7 @@
 
 <tr style="background-color: #f2f2f2;">
 <td align="center" width="65%">
-<img src="./assets/image.png" alt="MIC" height="60"/>
+<img src="./assets/MIC.png" alt="MIC" height="60"/>
 </td>
 <td align="left" width="35%">
 <b>Stagiaire Développeuse Full-Stack / Agent IA</b><br/>
@@ -180,7 +180,7 @@
 
 <tr style="background-color: #f2f2f2;">
 <td align="center" width="65%">
-<img src="./assets/ABHOER.jpg" alt="ABH Oum Er-Rbia" height="60"/>
+<img src="./assets/image.png" alt="ABH Oum Er-Rbia" height="60"/>
 </td>
 <td align="left" width="35%">
 <b>Stagiaire Développeuse Full-Stack</b><br/>
