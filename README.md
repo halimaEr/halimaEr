@@ -78,97 +78,97 @@ Java · Spring Boot · Angular · React js
 
 ##  Projets
 
-<table>
+<div align="center">
+<table width="95%">
 <tr>
-<td align="center" width="90%">
+<td align="center" width="30%">
 <br/>
 <b>MoroMatch : Agent intelligent de recrutement</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/MoroMatch-Agent"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/MoroMatch-Agent"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
-<td align="center" width="50%">
+<td align="center" width="30%">
 <br/>
 <b>Smart-IDS-AI</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Smart-IDS-AI"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/Smart-IDS-AI"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="30%">
 <br/>
 <b>TswirTi</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/TswirTi"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/TswirTi"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
-<td align="center" width="50%">
+</tr>
+<tr>
+<td align="center" width="30%">
 <br/>
 <b>HANOUTY.AI</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/HANOUTY.AI"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/HANOUTY.AI"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="30%">
 <br/>
 <b>Plateforme de recrutement RH</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/RH-Recruitment-Platform"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/RH-Recruitment-Platform"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
-<td align="center" width="50%">
+<td align="center" width="30%">
 <br/>
 <b>Gestion des licences logicielles</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Software-License-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/Software-License-Management"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="30%">
 <br/>
 <b>Gestion d'établissement</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Institution-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/Institution-Management"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
-<td align="center" width="50%">
+<td align="center" width="30%">
 <br/>
 <b>Gestion de la correspondance électronique</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Electronic-Correspondence-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/halimaEr/Electronic-Correspondence-Management"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
+<td width="30%"></td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## Expérience
 
-<table>
+<table width="95%">
 <tr>
-<td align="center" width="200"><img src="./assets/image.png" alt="MIC" height="60"/></td>
-<td>
+<td align="center" width="60%"><img src="./assets/image.png" alt="MIC" height="60"/></td>
+<td  width="30%">
 <b>MIC</b><br/>
 Stage Full-Stack / Agent IA<br/>
 <i>Juil. – Août 2026</i>
 </td>
 </tr>
 <tr>
-<td align="center" width="200"><img src="./assets/rouandi.png" alt="Rouandi" height="60"/></td>
-<td>
+<td align="center" width="60%"><img src="./assets/rouandi.png" alt="Rouandi" height="60"/></td>
+<td  width="30%">
 <b>Rouandi</b><br/>
 Stage Full-Stack<br/>
 <i>Juil. – Août 2025</i>
 </td>
 </tr>
 <tr>
-<td align="center" width="200"><img src="./assets/ABHOER.jfif" alt="ABH Oum Er-Rbia" height="60"/></td>
-<td>
+<td align="center" width="60%"><img src="./assets/ABHOER.jfif" alt="ABH Oum Er-Rbia" height="60"/></td>
+<td  width="30%">
 <b>ABH Oum Er-Rbia</b><br/>
 Stage Full-Stack<br/>
 <i>Avr. – Mai 2024</i>
