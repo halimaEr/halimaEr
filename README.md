@@ -2,7 +2,7 @@
 
 # Halima Er-Reguigue
 
-**Élève ingénieure · Développeuse Full-Stack**
+**Élève ingénieure | Développeuse Web Full-Stack**
 
 Java · Spring Boot · Angular · React.js
 
