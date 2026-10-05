@@ -67,77 +67,97 @@
 ---
 
 ##  Projets
-
 <div align="center">
-<table width="95%">
+
+<table width="100%" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="30%">
+<td align="center" width="33.33%">
 <br/>
 <b>Gestion des licences logicielles</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/gestion-des-licences-logicielles"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/gestion-des-licences-logicielles">
+<img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/>
+</a>
 <br/><br/>
 </td>
-<td align="center" width="30%">
+
+<td align="center" width="33.33%">
 <br/>
 <b>Smart-IDS-AI</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/IDS-IPS-Intelligent"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/IDS-IPS-Intelligent">
+<img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/>
+</a>
 <br/><br/>
 </td>
-<td align="center" width="30%">
+
+<td align="center" width="33.33%">
 <br/>
 <b>TswirTi</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/tswirty.ai"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/tswirty.ai">
+<img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/>
+</a>
 <br/><br/>
 </td>
 </tr>
+
 <tr>
-<td align="center" width="30%">
+<td align="center" width="33.33%">
 <br/>
 <b>HANOUTY.AI</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/hanouty-ai"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/hanouty-ai">
+<img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/>
+</a>
 <br/><br/>
 </td>
-<td align="center" width="30%">
+
+<td align="center" width="33.33%">
 <br/>
 <b>Plateforme de recrutement RH</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/microservices_RH_Project_"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/microservices_RH_Project_">
+<img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/>
+</a>
 <br/><br/>
 </td>
-<td align="center" width="30%">
-<br/>
 
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" width="30%">
+<td align="center" width="33.33%">
 <br/>
 <b>Gestion d'établissement</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Site-web-de-gestion-de-l-tablissement-de-l-EST-de-Fquih-Ben-Saleh-"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/Site-web-de-gestion-de-l-tablissement-de-l-EST-de-Fquih-Ben-Saleh-">
+<img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/>
+</a>
 <br/><br/>
 </td>
-<td align="center" width="30%">
+</tr>
+
+<tr>
+<td align="center" width="33.33%">
 <br/>
 <b>Gestion de la correspondance électronique</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/site-web-de-gestion-des-demandes-electroniques"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/site-web-de-gestion-des-demandes-electroniques">
+<img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/>
+</a>
 <br/><br/>
 </td>
-<td width="30%"></td>
+
+<td width="33.33%"></td>
+<td width="33.33%"></td>
 </tr>
 </table>
+
 </div>
+
 ---
 
 <div align="center">
 
 <table width="100%" style="border-collapse: collapse;">
+
 <tr style="background-color: #f2f2f2;">
 <td align="center" width="65%">
 <img src="./assets/image.png" alt="MIC" height="60"/>
@@ -167,6 +187,7 @@
 <i>Avr. – Mai 2024</i>
 </td>
 </tr>
+
 </table>
 
 </div>
