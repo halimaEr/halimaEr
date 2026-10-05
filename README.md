@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Halima Er-Reguigue - Élève ingénieure en Génie Informatique, Développeuse Full-Stack" width="100%"/>
-
-<br/><br/>
+<img src="./assets/header (1).svg" alt="Halima Er-Reguigue - Élève ingénieure en Génie Informatique, Développeuse Full-Stack" width="100%"/>
 
 *« Transformer des idées en code, et du code en impact »*
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/halima-er-reguigue-3b1416280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:h.erreguigue@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
