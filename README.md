@@ -2,7 +2,12 @@
 
 <h1>Halima Er-Reguigue</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+en+G%C3%A9nie+Informatique;D%C3%A9veloppeuse+Full-Stack+Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+React" alt="Présentation"/>
+<p align="center">
+<b>Élève ingénieure en Génie Informatique</b><br/>
+<b>Développeuse Full-Stack</b><br/>
+Java · Spring Boot · Angular · React<br/>
+Agents IA · LangGraph · RAG
+</p>
 
 <br/>
 
@@ -24,14 +29,13 @@
 
 ## 🎓 Formation
 
-
- **ENSA Safi** | Cycle ingénieur, Génie Informatique (2024 – Présent)
- **EST Fquih Ben Salah** | DUT Génie Informatique (2022 – 2024)
- **Lycée El Aamria** | Baccalauréat Sciences Physiques (2022)
+- **ENSA Safi** : Cycle ingénieur, Génie Informatique *(2024 – Présent)*
+- **EST Fquih Ben Salah** : DUT Génie Informatique *(2022 – 2024)*
+- **Lycée El Aamria** : Baccalauréat Sciences Physiques *(2022)*
 
 ---
 
-## Compétences
+## 🧰 Compétences
 
 <div align="center">
 
@@ -71,20 +75,20 @@
 
 ---
 
-## Projets
+## 🚀 Projets
 
 <table>
 <tr>
 <td align="center" width="50%">
 <br/>
-<b>⭐ MoroMatch : Agent intelligent de recrutement</b>
+<b>⭐ 🤖 MoroMatch : Agent intelligent de recrutement</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/MoroMatch-Agent"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b> Smart-IDS-AI</b>
+<b>🛡️ Smart-IDS-AI</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Smart-IDS-AI"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -93,14 +97,14 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<b> TswirTi</b>
+<b>🖼️ TswirTi</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/TswirTi"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b> HANOUTY.AI</b>
+<b>🛒 HANOUTY.AI</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/HANOUTY.AI"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -109,14 +113,14 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<b> Plateforme de recrutement RH</b>
+<b>👥 Plateforme de recrutement RH</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/RH-Recruitment-Platform"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b> Gestion des licences logicielles</b>
+<b>🔑 Gestion des licences logicielles</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Software-License-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -125,14 +129,14 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<b> Gestion d'établissement</b>
+<b>🏫 Gestion d'établissement</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Institution-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b> Gestion de la correspondance électronique</b>
+<b>📬 Gestion de la correspondance électronique</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Electronic-Correspondence-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -142,23 +146,34 @@
 
 ---
 
-##  Expérience
+## 💼 Expérience
 
-| Période | Entreprise | Poste |
-|:--|:--|:--|
-| Juil. – Août 2026 | **MIC** | Stage Full-Stack / Agent IA |
-| Juil. – Août 2025 | **Rouandi** | Stage Full-Stack |
-| Avr. – Mai 2024 | **ABH Oum Er-Rbia** | Stage Full-Stack |
-
-<div align="center">
-
-<img src="./assets/image.png" alt="MIC" height="55"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/rouandi.png" alt="Rouandi" height="55"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ABHOER.jfif" alt="ABH Oum Er-Rbia" height="55"/>
-
-</div>
+<table>
+<tr>
+<td align="center" width="200"><img src="./assets/image.png" alt="MIC" height="60"/></td>
+<td>
+<b>MIC</b><br/>
+Stage Full-Stack / Agent IA<br/>
+<i>Juil. – Août 2026</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="200"><img src="./assets/rouandi.png" alt="Rouandi" height="60"/></td>
+<td>
+<b>Rouandi</b><br/>
+Stage Full-Stack<br/>
+<i>Juil. – Août 2025</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="200"><img src="./assets/ABHOER.jfif" alt="ABH Oum Er-Rbia" height="60"/></td>
+<td>
+<b>ABH Oum Er-Rbia</b><br/>
+Stage Full-Stack<br/>
+<i>Avr. – Mai 2024</i>
+</td>
+</tr>
+</table>
 
 ---
 
