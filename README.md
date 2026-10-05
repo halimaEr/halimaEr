@@ -137,39 +137,41 @@
 </div>
 ---
 
-## Expérience
-
 <div align="center">
 
-<table width="95%">
-<tr>
-<td align="center" width="60%"><img src="./assets/image.png" alt="MIC" height="60"/></td>
-<td align="left" width="30%">
-<b>MIC</b><br/>
-Stage Full-Stack / Agent IA<br/>
-<i>Juil. – Août 2026</i>
+<table width="100%" style="border-collapse: collapse;">
+<tr style="background-color: #f2f2f2;">
+<td align="center" width="65%">
+<img src="./assets/image.png" alt="MIC" height="60"/>
+</td>
+<td align="left" width="35%">
+<b>Stagiaire Développeuse Full-Stack / Agent IA</b><br/>
+<i>15 Juil. – 15 septembre 2026</i>
 </td>
 </tr>
-<tr>
-<td align="center" width="60%"><img src="./assets/rouandi.png" alt="Rouandi" height="60"/></td>
-<td align="left" width="30%">
-<b>Rouandi</b><br/>
-Stage Full-Stack<br/>
+
+<tr style="background-color: #f2f2f2;">
+<td align="center" width="65%">
+<img src="./assets/rouandi.png" alt="Rouandi" height="60"/>
+</td>
+<td align="left" width="35%">
+<b>Stagiaire Développeuse Full-Stack</b><br/>
 <i>Juil. – Août 2025</i>
 </td>
 </tr>
-<tr>
-<td align="center" width="60%"><img src="./assets/ABHOER.jpg" alt="ABH Oum Er-Rbia" height="60"/></td>
-<td align="left" width="30%">
-<b>ABH Oum Er-Rbia</b><br/>
-Stage Full-Stack<br/>
+
+<tr style="background-color: #f2f2f2;">
+<td align="center" width="65%">
+<img src="./assets/ABHOER.jpg" alt="ABH Oum Er-Rbia" height="60"/>
+</td>
+<td align="left" width="35%">
+<b>Stagiaire Développeuse Full-Stack</b><br/>
 <i>Avr. – Mai 2024</i>
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 📄 CV
