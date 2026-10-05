@@ -149,10 +149,12 @@ Java · Spring Boot · Angular · React js
 
 ## Expérience
 
+<div align="center">
+
 <table width="95%">
 <tr>
 <td align="center" width="60%"><img src="./assets/image.png" alt="MIC" height="60"/></td>
-<td  width="30%">
+<td align="left" width="30%">
 <b>MIC</b><br/>
 Stage Full-Stack / Agent IA<br/>
 <i>Juil. – Août 2026</i>
@@ -160,21 +162,23 @@ Stage Full-Stack / Agent IA<br/>
 </tr>
 <tr>
 <td align="center" width="60%"><img src="./assets/rouandi.png" alt="Rouandi" height="60"/></td>
-<td  width="30%">
+<td align="left" width="30%">
 <b>Rouandi</b><br/>
 Stage Full-Stack<br/>
 <i>Juil. – Août 2025</i>
 </td>
 </tr>
 <tr>
-<td align="center" width="60%"><img src="./assets/ABHOER.jfif" alt="ABH Oum Er-Rbia" height="60"/></td>
-<td  width="30%">
+<td align="center" width="60%"><img src="./assets/ABHOER.jpg" alt="ABH Oum Er-Rbia" height="60"/></td>
+<td align="left" width="30%">
 <b>ABH Oum Er-Rbia</b><br/>
 Stage Full-Stack<br/>
 <i>Avr. – Mai 2024</i>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -199,7 +203,7 @@ Stage Full-Stack<br/>
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
