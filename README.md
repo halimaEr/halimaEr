@@ -2,7 +2,7 @@
 
 <h1>Halima Er-Reguigue</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+en+G%C3%A9nie+Informatique;D%C3%A9veloppeuse+Full-Stack;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+React;Agents+IA+%C2%B7+LangGraph+%C2%B7+RAG" alt="Présentation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+en+G%C3%A9nie+Informatique;D%C3%A9veloppeuse+Full-Stack+Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+React" alt="Présentation"/>
 
 <br/>
 
@@ -24,15 +24,14 @@
 
 ## 🎓 Formation
 
-| Période | Établissement | Diplôme |
-|:--|:--|:--|
-| 2024 – Présent | **ENSA Safi** | Cycle ingénieur, Génie Informatique |
-| 2022 – 2024 | **EST Fquih Ben Salah** | DUT Génie Informatique |
-| 2022 | **Lycée El Aamria** | Baccalauréat Sciences Physiques |
+
+ **ENSA Safi** | Cycle ingénieur, Génie Informatique (2024 – Présent)
+ **EST Fquih Ben Salah** | DUT Génie Informatique (2022 – 2024)
+ **Lycée El Aamria** | Baccalauréat Sciences Physiques (2022)
 
 ---
 
-## 🧰 Compétences
+## Compétences
 
 <div align="center">
 
@@ -72,20 +71,20 @@
 
 ---
 
-## 🚀 Projets
+## Projets
 
 <table>
 <tr>
 <td align="center" width="50%">
 <br/>
-<b>⭐ 🤖 MoroMatch : Agent intelligent de recrutement</b>
+<b>⭐ MoroMatch : Agent intelligent de recrutement</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/MoroMatch-Agent"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b>🛡️ Smart-IDS-AI</b>
+<b> Smart-IDS-AI</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Smart-IDS-AI"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -94,14 +93,14 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<b>🖼️ TswirTi</b>
+<b> TswirTi</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/TswirTi"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b>🛒 HANOUTY.AI</b>
+<b> HANOUTY.AI</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/HANOUTY.AI"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -110,14 +109,14 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<b>👥 Plateforme de recrutement RH</b>
+<b> Plateforme de recrutement RH</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/RH-Recruitment-Platform"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b>🔑 Gestion des licences logicielles</b>
+<b> Gestion des licences logicielles</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Software-License-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -126,14 +125,14 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<b>🏫 Gestion d'établissement</b>
+<b> Gestion d'établissement</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Institution-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<b>📬 Gestion de la correspondance électronique</b>
+<b> Gestion de la correspondance électronique</b>
 <br/><br/>
 <a href="https://github.com/halimaEr/Electronic-Correspondence-Management"><img src="https://img.shields.io/badge/GitHub-Voir_le_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
@@ -143,7 +142,7 @@
 
 ---
 
-## 💼 Expérience
+##  Expérience
 
 | Période | Entreprise | Poste |
 |:--|:--|:--|
