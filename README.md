@@ -73,23 +73,23 @@
 <tr>
 <td align="center" width="30%">
 <br/>
-<b>MoroMatch : Agent intelligent de recrutement</b>
+<b>Gestion des licences logicielles</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/MoroMatch-Agent"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/gestion-des-licences-logicielles"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 <td align="center" width="30%">
 <br/>
 <b>Smart-IDS-AI</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Smart-IDS-AI"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/IDS-IPS-Intelligent"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 <td align="center" width="30%">
 <br/>
 <b>TswirTi</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/TswirTi"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/tswirty.ai"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 </tr>
@@ -98,21 +98,19 @@
 <br/>
 <b>HANOUTY.AI</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/HANOUTY.AI"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/hanouty-ai"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 <td align="center" width="30%">
 <br/>
 <b>Plateforme de recrutement RH</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/RH-Recruitment-Platform"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/microservices_RH_Project_"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 <td align="center" width="30%">
 <br/>
-<b>Gestion des licences logicielles</b>
-<br/><br/>
-<a href="https://github.com/halimaEr/Software-License-Management"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+
 <br/><br/>
 </td>
 </tr>
@@ -121,14 +119,14 @@
 <br/>
 <b>Gestion d'établissement</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Institution-Management"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/Site-web-de-gestion-de-l-tablissement-de-l-EST-de-Fquih-Ben-Saleh-"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 <td align="center" width="30%">
 <br/>
 <b>Gestion de la correspondance électronique</b>
 <br/><br/>
-<a href="https://github.com/halimaEr/Electronic-Correspondence-Management"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
+<a href="https://github.com/halimaEr/site-web-de-gestion-des-demandes-electroniques"><img src="https://cdn.simpleicons.org/github/6366F1" alt="GitHub" height="32"/></a>
 <br/><br/>
 </td>
 <td width="30%"></td>
