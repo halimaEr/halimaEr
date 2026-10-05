@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/halima-er-reguigue-3b1416280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:h.erreguigue@gmail.com">h.erreguigue@gmail.com<img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:h.erreguigue@gmail.com">src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>h.erreguigue@gmail.com<img </a>
 <a href="./assets/CV_Halima_Er-Reguigue.pdf"><img src="https://img.shields.io/badge/CV-T%C3%A9l%C3%A9charger-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
 
 <br/><br/>
