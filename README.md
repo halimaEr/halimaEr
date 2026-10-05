@@ -26,6 +26,72 @@
 
 ---
 
+<details>
+<summary><b>🎓 Formation</b></summary>
+<br/>
+
+- **ENSA Safi** : Cycle ingénieur, Génie Informatique *(2024 – Présent)*
+- **EST Fquih Ben Salah** : DUT Génie Informatique *(2022 – 2024)*
+- **Lycée El Aamria** : Baccalauréat Sciences Physiques *(2022)*
+
+</details>
+
+
+
+---
+
+## 🧰 Compétences
+
+<div align="center">
+
+**Langages**
+
+<img src="./assets/skills-langages (4).svg" alt="Langages"/>
+
+**Back-end**
+
+<img src="./assets/skills-backend (2).svg" alt="Back-end"/>
+
+**Front-end**
+
+<img src="./assets/skills-frontend (2).svg" alt="Front-end"/>
+
+**Bases de données**
+
+<img src="./assets/skills-bdd.svg" alt="Bases de données"/>
+
+**Architectures**
+
+<img src="./assets/skills-architectures.svg" alt="Architectures"/>
+
+**Outils et méthodes**
+
+<img src="./assets/skills-outils.svg" alt="Outils et méthodes"/>
+
+**Modélisation**
+
+<img src="./assets/skills-modelisation.svg" alt="Modélisation"/>
+
+**Intelligence artificielle**
+
+<img src="./assets/skills-ia.svg" alt="Intelligence artificielle"/>
+
+</div>
+
+---
+
+
+
+
+<details open>
+<summary><b>💼 Stages</b></summary>
+<br/>
+
+- **MIC** : Stage Full-Stack / Agent IA *(Juil. – Août 2026)*
+- **Rouandi** : Stage Full-Stack *(Juil. – Août 2025)*
+- **ABH Oum Er-Rbia** : Stage Full-Stack *(Avr. – Mai 2024)*
+
+
 ## 🚀 Projets
 
 ### ⭐ Dernier projet : en vedette
@@ -162,59 +228,6 @@ Application de suivi et de traitement de la correspondance électronique.
 </td>
 </tr>
 </table>
-
----
-
-## 🧰 Compétences
-
-<div align="center">
-
-**Langages**
-
-<img src="./assets/skills-langages (4).svg" alt="Langages"/>
-
-**Back-end**
-
-<img src="./assets/skills-backend (2).svg" alt="Back-end"/>
-
-**Front-end**
-
-<img src="./assets/skills-frontend (2).svg" alt="Front-end"/>
-
-**Bases de données**
-
-<img src="./assets/skills-bdd.svg" alt="Bases de données"/>
-
-**Architectures**
-
-<img src="./assets/skills-architectures.svg" alt="Architectures"/>
-
-**Outils et méthodes**
-
-<img src="./assets/skills-outils.svg" alt="Outils et méthodes"/>
-
-**Modélisation**
-
-<img src="./assets/skills-modelisation.svg" alt="Modélisation"/>
-
-**Intelligence artificielle**
-
-<img src="./assets/skills-ia.svg" alt="Intelligence artificielle"/>
-
-</div>
-
----
-
-## 🧭 Parcours
-
-<details open>
-<summary><b>💼 Stages</b></summary>
-<br/>
-
-- **MIC** : Stage Full-Stack / Agent IA *(Juil. – Août 2026)*
-- **Rouandi** : Stage Full-Stack *(Juil. – Août 2025)*
-- **ABH Oum Er-Rbia** : Stage Full-Stack *(Avr. – Mai 2024)*
-
 <div align="center">
 
 <img src="./assets/image.png" alt="MIC" height="55"/>
@@ -227,15 +240,7 @@ Application de suivi et de traitement de la correspondance électronique.
 
 </details>
 
-<details>
-<summary><b>🎓 Formation</b></summary>
-<br/>
 
-- **ENSA Safi** : Cycle ingénieur, Génie Informatique *(2024 – Présent)*
-- **EST Fquih Ben Salah** : DUT Génie Informatique *(2022 – 2024)*
-- **Lycée El Aamria** : Baccalauréat Sciences Physiques *(2022)*
-
-</details>
 
 ---
 
