@@ -62,7 +62,7 @@ Java · Spring Boot · Angular · React js
 
 **Outils et méthodes**
 
-<img src="./assets/skills-outils.svg" alt="Outils et méthodes"/>
+<img src="./assets/skills-outils (1).svg" alt="Outils et méthodes"/>
 
 **Modélisation**
 
