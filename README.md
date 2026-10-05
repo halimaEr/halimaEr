@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header (1).svg" alt="Halima Er-Reguigue - Élève ingénieure en Génie Informatique, Développeuse Full-Stack" width="100%"/>
+<img src="./assets/header.svg" alt="Halima Er-Reguigue - Élève ingénieure en Génie Informatique, Développeuse Full-Stack" width="100%"/>
 
 *« Transformer des idées en code, et du code en impact »*
 
@@ -32,15 +32,15 @@
 
 **Langages**
 
-<img src="./assets/skills-langages%20(4).svg" alt="Langages"/>
+<img src="./assets/skills-langages.svg" alt="Langages"/>
 
 **Back-end**
 
-<img src="./assets/skills-backend%20(2).svg" alt="Back-end"/>
+<img src="./assets/skills-backend.svg" alt="Back-end"/>
 
 **Front-end**
 
-<img src="./assets/skills-frontend%20(2).svg" alt="Front-end"/>
+<img src="./assets/skills-frontend.svg" alt="Front-end"/>
 
 **Bases de données**
 
@@ -52,7 +52,7 @@
 
 **Outils et méthodes**
 
-<img src="./assets/skills-outils (1).svg" alt="Outils et méthodes"/>
+<img src="./assets/skills-outils.svg" alt="Outils et méthodes"/>
 
 **Modélisation**
 
