@@ -8,7 +8,9 @@
 Java · Spring Boot · Angular · React js
 </p>
 
-<br/>
+
+<br/><br/>
+
 
 *« Transformer des idées en code, et du code en impact »*
 
@@ -34,7 +36,7 @@ Java · Spring Boot · Angular · React js
 
 ---
 
-## 💻 Compétences
+## Compétences
 
 <div align="center">
 
@@ -74,11 +76,11 @@ Java · Spring Boot · Angular · React js
 
 ---
 
-## 🚀 Projets
+##  Projets
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="90%">
 <br/>
 <b>MoroMatch : Agent intelligent de recrutement</b>
 <br/><br/>
@@ -145,7 +147,7 @@ Java · Spring Boot · Angular · React js
 
 ---
 
-## 💼 Expérience
+## Expérience
 
 <table>
 <tr>
