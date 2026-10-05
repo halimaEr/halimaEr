@@ -2,7 +2,7 @@
 
 <h1>Halima Er-Reguigue</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Élève+ingénieure+en+Génie+Informatique;Développeuse+Full-Stack;Java+·+Spring+Boot+·+Angular+·+React;Agents+IA+·+LangGraph+·+RAG" alt="Présentation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+en+G%C3%A9nie+Informatique;D%C3%A9veloppeuse+Full-Stack;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+React;Agents+IA+%C2%B7+LangGraph+%C2%B7+RAG" alt="Présentation"/>
 
 <br/>
 
