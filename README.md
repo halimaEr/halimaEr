@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/halima-er-reguigue-3b1416280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="./assets/CV_ER-REGUIGUE_Halima.pdf"><img src="https://img.shields.io/badge/CV-T%C3%A9l%C3%A9charger-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
+<a href="./assets/CV_ER-REGUIGUE_HALIMA.pdf"><img src="https://img.shields.io/badge/CV-T%C3%A9l%C3%A9charger-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
 
 <br/><br/>
 
@@ -196,7 +196,7 @@
 
 <div align="center">
 
-<a href="./assets/CV_ER-REGUIGUE_Halima.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%A5_T%C3%A9l%C3%A9charger_mon_CV_%28PDF%29-4F46E5?style=for-the-badge" alt="Télécharger le CV"/></a>
+<a href="./assets/CV_ER-REGUIGUE_HALIMA.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%A5_T%C3%A9l%C3%A9charger_mon_CV_%28PDF%29-4F46E5?style=for-the-badge" alt="Télécharger le CV"/></a>
 
 </div>
 
